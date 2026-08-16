@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/01_API/">
+    <Project Path="01_API/SpatialValuation.API.csproj" />
+  </Folder>
+  <Folder Name="/02_Application/">
+    <Project Path="02_Application/SpatialValuation.Application.csproj" />
+  </Folder>
+  <Folder Name="/03_Domain/">
+    <Project Path="03_Domain/SpatialValuation.Domain.csproj" />
+  </Folder>
+  <Folder Name="/04_Infrastructure/">
+    <Project Path="04_Infrastructure/SpatialValuation.Infrastructure.csproj" />
+  </Folder>
+</Solution>
