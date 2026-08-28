@@ -1,0 +1,6 @@
+@SpatialValuation.API_HostAddress = http://localhost:5219
+
+GET {{SpatialValuation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
