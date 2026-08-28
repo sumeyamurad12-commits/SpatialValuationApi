@@ -1,6 +1,6 @@
 using NetTopologySuite.Geometries;
 
-namespace _03_Domain.Entities;
+namespace SpatialValuation.Domain.Entities;
 
 public class ComparableSale
 {

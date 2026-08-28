@@ -1,4 +1,4 @@
-namespace _03_Domain.Enums;
+namespace SpatialValuation.Domain.Enums;
 
 public enum ValuationStatus
 {

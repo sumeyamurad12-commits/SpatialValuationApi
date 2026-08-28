@@ -1,4 +1,4 @@
-namespace _03_Domain.ValueObjects;
+namespace SpatialValuation.Domain.ValueObjects;
 
 public record Address(
     string SubCity,
